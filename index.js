@@ -20,4 +20,4 @@ if (XP >= 0 && XP <= 1000){
     Rank = "Radiante";
 };
 
-    console.log("O jogador " + Nome + " está no rank " + Rank);
+    console.log("O jogador " + Nome + " está no nível de: " + Rank);
